@@ -1,5 +1,5 @@
 # IMDB Telegram Bot
-A telegram bot that provides movie details as per user’s requirements
+A telegram bot that provides movie details as per user’s requirements\
 Steps to run:
 1. ``` pip install -r requirements.txt ```
 2. ``` python3 bot.py ```
